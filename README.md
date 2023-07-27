@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="185" src="https://www.graweb.com.br/_nuxt/img/animation.797c5a6.gif"  />
+  <img height="185" src="https://www.kdeveloper.net/assets/coder_cats-a5bc0929.gif"  />
 </div>
 
 ###
