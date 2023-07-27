@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="185" src="[https://www.kdeveloper.net/assets/coder_cats-a5bc0929.gif](https://blue-bear.hr/wp-content/uploads/2023/03/izrada-mobilnih-aplikacija.gif)"  />
+  <img height="185" src="https://blue-bear.hr/wp-content/uploads/2023/03/izrada-mobilnih-aplikacija.gif"  />
 </div>
 
 ###
