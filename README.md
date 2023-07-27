@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="185" src="https://blue-bear.hr/wp-content/uploads/2023/03/izrada-mobilnih-aplikacija.gif"  />
+  <img height="250" src="https://blue-bear.hr/wp-content/uploads/2023/03/izrada-mobilnih-aplikacija.gif"  />
 </div>
 
 ###
